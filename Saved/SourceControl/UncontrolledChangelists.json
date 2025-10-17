@@ -1,0 +1,40 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Unreal5/Carnival/Content/FirstPerson/Lvl_FirstPerson.umap",
+				"C:/Unreal5/Carnival/Content/FirstPerson/Character/Input/IA_Look.uasset",
+				"C:/Unreal5/Carnival/Content/FirstPerson/Character/Input/IA_MoveForward.uasset",
+				"C:/Unreal5/Carnival/Content/FirstPerson/Character/Input/IA_MoveRight.uasset",
+				"C:/Unreal5/Carnival/Content/FirstPerson/Character/IMC_Ch.uasset",
+				"C:/Unreal5/Carnival/Content/FirstPerson/Character/Blueprints/BP_BaseController.uasset",
+				"C:/Unreal5/Carnival/Content/FirstPerson/Character/Blueprints/BP_BaseCharacter.uasset",
+				"C:/Unreal5/Carnival/Content/FirstPerson/Character/Blueprints/BP_BaseMode.uasset",
+				"C:/Unreal5/Carnival/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/9/ZG/YLRIYSWMUUGFHWY76QP7VY.uasset",
+				"C:/Unreal5/Carnival/Content/FirstPerson/Character/Animation/ABP_Character.uasset",
+				"C:/Unreal5/Carnival/Content/FirstPerson/Character/Effect/BP_Idle.uasset",
+				"C:/Unreal5/Carnival/Content/FirstPerson/Character/Effect/BP_Spring.uasset",
+				"C:/Unreal5/Carnival/Content/FirstPerson/Character/Effect/BP_Walk.uasset",
+				"C:/Unreal5/Carnival/Content/FirstPerson/Character/Input/IA_Sprint.uasset",
+				"C:/Unreal5/Carnival/Content/FirstPerson/Character/Input/IA_Crouch.uasset",
+				"C:/Unreal5/Carnival/Content/Input/IMC_MouseLook.uasset",
+				"C:/Unreal5/Carnival/Content/Input/IMC_Default.uasset",
+				"C:/Unreal5/Carnival/Content/Input/Touch/UI_TouchSimple.uasset",
+				"C:/Unreal5/Carnival/Content/Input/Touch/UI_Thumbstick.uasset",
+				"C:/Unreal5/Carnival/Content/Input/Touch/BPI_TouchInterface.uasset",
+				"C:/Unreal5/Carnival/Content/Input/Actions/IA_Jump.uasset",
+				"C:/Unreal5/Carnival/Content/Input/Actions/IA_Look.uasset",
+				"C:/Unreal5/Carnival/Content/Input/Actions/IA_MouseLook.uasset",
+				"C:/Unreal5/Carnival/Content/Input/Actions/IA_Move.uasset",
+				"C:/Unreal5/Carnival/Content/FirstPerson/Blueprints/GM_FirstPerson.uasset",
+				"C:/Unreal5/Carnival/Content/FirstPerson/Blueprints/BP_FP_CameraManager.uasset",
+				"C:/Unreal5/Carnival/Content/FirstPerson/Blueprints/BP_FirstPersonPlayerController.uasset",
+				"C:/Unreal5/Carnival/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Unreal5/Carnival/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/2/EG/CIZR6W2NYH4Y5P8G67XOU0.uasset"
+			]
+		}
+	]
+}
